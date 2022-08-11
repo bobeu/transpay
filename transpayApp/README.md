@@ -1,2 +1,0 @@
-# transpay
-E-Naira hackathon
